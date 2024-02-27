@@ -4,7 +4,7 @@
         "Thu Feb 22 18:53:47 2024 -0800: fix: Clown horn orientation",
         "Thu Feb 22 18:52:27 2024 -0800: feat: Company monster responds to sound and grabs players and kills them.",
         "Tue Feb 20 20:37:56 2024 -0800: fix: Only update game time every 5 game time seconds.",
-        "Tue Feb 20 20:37:26 2024 -0800: fix: Potential\n double\n audio\n for\n generic\n items\n OnUse",
+        "Tue Feb 20 20:37:26 2024 -0800: fix: Potential\n\tdouble\n\taudio\n\tfor\n\tgeneric\n\titems\n\tOnUse",
         "Tue Feb 20 20:36:25 2024 -0800: Fix double audio for owner of flashlight.",
         "Sun Feb 18 15:46:41 2024 -0800: fix: Make ocean opaque so fog works",
         "Sun Feb 18 15:46:15 2024 -0800: assets: Fix Worm bone mess",
