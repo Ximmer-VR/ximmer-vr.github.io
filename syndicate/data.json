@@ -1,5 +1,5 @@
 {
-    "news": "Welcome to the Syndicate News Network!",
+    "news": "<align=center>Welcome to the Syndicate News Network!</center>",
     "changelog": [
         "Sun Feb 25 14:26:57 2024 -0800: fix: Increase Jebs think rate so it can lose it's temper on item sounds",
         "Thu Feb 22 18:53:47 2024 -0800: fix: Clown horn orientation",
