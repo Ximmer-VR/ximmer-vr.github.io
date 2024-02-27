@@ -1,16 +1,6 @@
 {
     "news": "<align=center>Welcome to the Syndicate News Network!</align>",
     "changelog": [
-        "Sun Feb 25 14:26:57 2024 -0800: fix: Increase Jebs think rate so it can lose it's temper on item sounds",
-        "Thu Feb 22 18:53:47 2024 -0800: fix: Clown horn orientation",
-        "Thu Feb 22 18:52:27 2024 -0800: feat: Company monster responds to sound and grabs players and kills them.",
-        "Tue Feb 20 20:37:56 2024 -0800: fix: Only update game time every 5 game time seconds.",
-        "Tue Feb 20 20:37:26 2024 -0800: fix: Potential\n\tdouble\n\taudio\n\tfor\n\tgeneric\n\titems\n\tOnUse",
-        "Tue Feb 20 20:36:25 2024 -0800: Fix double audio for owner of flashlight.",
-        "Sun Feb 18 15:46:41 2024 -0800: fix: Make ocean opaque so fog works",
-        "Sun Feb 18 15:46:15 2024 -0800: assets: Fix Worm bone mess",
-        "Sun Feb 18 12:26:52 2024 -0800: fix: crash in PlayerInVolume",
-        "Sun Feb 18 12:26:07 2024 -0800: refactor: Add tick rate to damage volume",
-        "Fri Feb 16 15:53:07 2024 -0800: feat: Damage trigger volume to damage the player"
+        "2024-02-27: Change Log Goes Here"
     ]
 }
