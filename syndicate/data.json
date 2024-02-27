@@ -1,1 +1,16 @@
-IWnSSiQrcdsXXnJBp7YEQN0WP60PEitRy62vsh4zRPNNCwuaz8TzjgxWDMtGC8afM6QwSDqr3SYmAVspWKI4VEt6KeevNZYICHWsm6D+6TA3ILppk5pfwwtD5UrcOPFlcE1v06bx5chDGbqElAeaPIVy0EvCvUk2RtInSjt1jf8gY8gmbD6S8qSnuzI5ZN83G+zkwIIuu2OGQ9A5MGQngvhyw4kGglrgrG+xSn7jVoOMb9mgmXFkkdLldhMdV8hV+fSG2dXzWLZCJwjXL/wMMytg+Xndg7H0WDn5Qv/jvHDUgwSvp5doHp0Gz++/BvXfpJApWAhHtdT79uc1y9GeDRcD74YacM3yyXe5w0K5L6CQ8pFiv3pjH/j5x9sKMiZd4pO9kAA6J3CiCGUtKA4tYlGCOTlGzsLkN4jOnxnxFRa7qU0/vpqlBanX/B6p5ndLpezlYmUddYe7rvY4dZ1fKoccdk2iZ/MHXFMVve7YtAJQqirjJgxgFOPwuDK635U0a0YYSOZLruDfnChfe5Qd9GyvjOo9mH0aoLvK29Gy6hsC5svhz5M9vzoSeEp2fB/T6azQ1BCeFnJDMKbCitp/IYlDOk2GvRZxqBhdv2M9mS7PgMykEIfFCHGnBoSmJ7UOl02iDUp7W9R0lJXchMxSDhbUlk+nwqNUBwKP7chtWF00hPTJMU9XlOWmylOCOl/s+y3nTPCXJMdrVtre2wKDvx/1/YzoTqfaWTlkocqAqY4fne9yEbjduI/LS+bzcXy670gLIZnizz8tQB8GDHtajW6jAJAB+6aE8YRaN1cqx4Jjr6H7b6SGMhbsuJxZxBffhN98+1imC9gFVDVZumjbtmOt/HfbAjt81ZK6k6LOqWxrRa45igJxma3/d6O43XYeGrzvLDcjUxqfFVueDbrgXH++W550VtcDpacbAdWZuLuhCKig7A6YJSLB6UmMWrb0eFRZ9GCCLjWHs9hzz0seWd7oG9FUZyO/Wf+kBVlwgBpWUVIfYLo9yL8fEdFjOBtus5zF+N4H+U3iwN1lmYAT4zjEEAiWg/+HGLawC01WrW9SsA33UI4yEF2rcZKeYsB4Jsqe6jhLZCl4ohRnIBMAdR9C4BQrk3fhTB9hJ/aGKJoeZvpv2oSDnbPfrz1x7VfCQsZylL46+U4HdrTzQghegIr/ASmhsvJ8E9JGPxFJCKALBpJ7XqAPn55yebFDfQytx8RAkxXzrZ3Cux3NESdj7HdO76Zj7c5IMNmT99JmLUzBOAIjfJRQ9WtAY9qCHx0zRRxnH4rNsfT7L4/tJs/UiJcSKc1SUL4Oheaf0GlmJau+HQfe5CBjv/HIPT7uxkeOAb5nWsUmG5vWtsEmhUKO69nOCtG21A1iN+B8foa9fnt3za44AD5c4Qbt+8i3xkYrwwFMqFRMfT/APmaHSNMXGwKr2Te2zV7oziWs6SFMZCAybkEjldcWdz0hs8AwnjwknD+lP+DZQ1NTUfGLDynf+Q==
+{
+    "news": "Welcome to the Syndicate News Network!",
+    "changelog": [
+        "Sun Feb 25 14:26:57 2024 -0800: fix: Increase Jebs think rate so it can lose it's temper on item sounds",
+        "Thu Feb 22 18:53:47 2024 -0800: fix: Clown horn orientation",
+        "Thu Feb 22 18:52:27 2024 -0800: feat: Company monster responds to sound and grabs players and kills them.",
+        "Tue Feb 20 20:37:56 2024 -0800: fix: Only update game time every 5 game time seconds.",
+        "Tue Feb 20 20:37:26 2024 -0800: fix: Potential\n\tdouble\n\taudio\n\tfor\n\tgeneric\n\titems\n\tOnUse",
+        "Tue Feb 20 20:36:25 2024 -0800: Fix double audio for owner of flashlight.",
+        "Sun Feb 18 15:46:41 2024 -0800: fix: Make ocean opaque so fog works",
+        "Sun Feb 18 15:46:15 2024 -0800: assets: Fix Worm bone mess",
+        "Sun Feb 18 12:26:52 2024 -0800: fix: crash in PlayerInVolume",
+        "Sun Feb 18 12:26:07 2024 -0800: refactor: Add tick rate to damage volume",
+        "Fri Feb 16 15:53:07 2024 -0800: feat: Damage trigger volume to damage the player"
+    ]
+}
