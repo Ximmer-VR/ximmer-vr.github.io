@@ -1,0 +1,23 @@
+{
+    "news": "Welcome to the Syndicate News Network!",
+    "changelog": [
+        "2024-02-27: Change Log Goes Here"
+    ],
+    "thanks": "Special Thanks to testers:\n\nBastion | Dehbirb | Fracas | JellySten | Laxy | Mafibun | Primefan | Rayquaza678 | Tandorian | TeslaCoil | Vizi | YaHiKoO\n",
+    "patreon": {
+        "Diamond": {
+            "color": "#E4E4E4",
+            "users": [
+                "Ximmer"
+            ]
+        },
+        "Emerald": {
+            "color": "#50C878",
+            "users": []
+        },
+        "Amethyst": {
+            "color": "#9966CC",
+            "users": []
+        }
+    }
+}
